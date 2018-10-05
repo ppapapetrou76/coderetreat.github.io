@@ -1,0 +1,17 @@
+{
+  "title": "GDCR18 in Thessaloniki",
+  "url": "http://coderetreat.gr",
+  "moderators": [
+    "@coderetreat_gr"
+  ],
+  "location": {
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 40.6211361,
+      "longitude": 22.953004
+    },
+    "utcOffset": 3,
+    "timezone": "Europe/Athens"
+  }
+}
